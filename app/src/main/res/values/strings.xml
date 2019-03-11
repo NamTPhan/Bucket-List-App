@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BucketList</string>
+    <string name="fields_required">All fields required!</string>
+    <string name="success_message">Item successfully added!</string>
+    <string name="deleted_message">Item(s) successfully deleted!</string>
+    <string name="update_message">Item successfully updated!</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="title_placeholder">Title</string>
+    <string name="description_placeholder">Description</string>
+    <string name="delete_all">Delete All</string>
+    <string name="add_item_btn">Add New Item</string>
+</resources>
